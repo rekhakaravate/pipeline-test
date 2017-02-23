@@ -1,6 +1,0 @@
-#!groovy
-node[{
-
-echo 'helloworld'
-
-}
